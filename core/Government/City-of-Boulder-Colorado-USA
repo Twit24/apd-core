@@ -1,0 +1,31 @@
+---
+title: City of Boulder Open Data Catalog
+homepage: https://bouldercolorado.gov/open-data
+category: Government
+description: Search dozens of datasets from the City of Boulder, or view data by category or department. Or browse the full open data catalog. Can't find what you're looking for? Suggest a dataset.
+version: 1.0
+keywords: Environment, Public Land, Permits, Licences, Finance, Recreation, Arts, Culture, Property, Public Safety, Transportation, Mobility, Demographics, Energy, Utilities, GIS, Open Space, Survey
+image: 
+temporal:
+spatial:
+access_level: public
+copyrights: Creative Commons CC Zero license (CC0 1.0)
+accrual_periodicity: monthly
+specification:
+data_quality: 
+data_dictionary:
+language: en
+license: 
+publisher:
+  - name: 
+    web: 
+organization:
+  - name:
+    web:
+issued_time: 
+sources:
+  - name: 
+    access_url: 
+references:
+  - title: 
+    reference:
